@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map for Doubao API
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+validateConfig	KEYWORD2
+sendHttpRequest	KEYWORD2
+sendHttpRequestWithRetry	KEYWORD2
+buildPayload	KEYWORD2
+getGPTAnswer	KEYWORD2
+getGPTAnswer_urlimg	KEYWORD2
+getGPTAnswer_camera	KEYWORD2
+getChoice	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ERROR_NETWORK	LITERAL1
+ERROR_CAMERA	LITERAL1
+ERROR_IMAGE_TOO_LARGE	LITERAL1
+ERROR_INVALID_INPUT	LITERAL1
+ERROR_JSON_PARSE	LITERAL1
+ERROR_TIMEOUT	LITERAL1
+answer	LITERAL1
